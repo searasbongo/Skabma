@@ -1,4 +1,4 @@
-oahpis
+Skabma
 ======
 
-Sami language point-and-click app for small children
+Sami language star constellation app for children
